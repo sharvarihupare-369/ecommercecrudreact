@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "image": "https://thehouseofrare.com/cdn/shop/products/HERO_e6b183f7-8596-4d0c-9080-89edd3841c6e.jpg?v=1666177644",
+      "price": 600,
+      "brand": "RatRabbit",
+      "name": "T-Shirt",
+      "category": "top-wear",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "Puma shoes",
+      "image": "https://m.media-amazon.com/images/I/51CdebtjP2L._UL1200_.jpg",
+      "brand": "Puma",
+      "price": "1800",
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Nike shoesss",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/585e2cd2-4f2a-408c-a8ba-f89952cdf332/revolution-6-next-nature-road-running-shoes-NC0P7k.png",
+      "brand": "Nike",
+      "price": "1400",
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "Men's Denim Jacket",
+      "image": "https://www.thegoodtrade.com/wp-content/uploads/2023/01/sustainable-mens-clothing.jpeg",
+      "brand": "Roadster",
+      "price": 800,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "Half sleev Men's shirt",
+      "image": "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w",
+      "brand": "Here & Now",
+      "price": 830,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "name": "Women's white Tshirt",
+      "image": "https://cdn.shopify.com/s/files/1/0072/7393/9062/products/product-image-665897246_1200x1200.jpg?v=1641994745",
+      "brand": "Bacca Bucci",
+      "price": 1349,
+      "category": "top-wear",
+      "gender": "female",
+      "id": 6
+    },
+    {
+      "name": "Kids Tshirt ",
+      "image": "https://cdn.shopify.com/s/files/1/1780/5071/products/kidgoals_black_Kids-t-shirt_2_2048x.jpg?v=1588436424",
+      "brand": "BumChum",
+      "price": 450,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 7
+    }
+  ]
+}
